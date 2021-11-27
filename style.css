@@ -111,16 +111,18 @@ body {
 
 .dashboard__graficos {
   text-align: center;
-  width: 95%;
+  width: 85%;
   margin: auto;
   margin-bottom: 5rem;
 }
 
 .dashboard__graficos img {
-  width: 45%;
-  margin-right: 3rem;
-  margin-top: 3rem;
+  margin-right: 1rem;
+  margin-top: 1rem;
 }
+
+
+
 
 /********************** UTILIDADE PUBLICA **********************/
 
