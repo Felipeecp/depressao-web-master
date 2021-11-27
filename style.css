@@ -64,8 +64,8 @@ body {
 
 .grupos-title {
   text-align: center;
-  margin: 5rem 0;
-  color: rgba(44, 46, 67, 1);
+  margin: 3rem 0;
+  color: rgba(44, 46, 67, 0.8);
 }
 
 .graficos__barra-superior {
@@ -102,11 +102,11 @@ body {
   width: 500px;
   text-align: center;
   font-family: "Roboto", sans-serif;
-  color: rgba(44, 46, 67, 1);
+  color: rgba(44, 46, 67, 0.8);
   font-weight: 500;
   font-size: 36px;
 
-  margin-bottom: 5rem;
+  margin-bottom: 2rem;
 }
 
 .dashboard__graficos {
@@ -114,11 +114,14 @@ body {
   width: 85%;
   margin: auto;
   margin-bottom: 5rem;
+  border: 2px solid rgba(44, 46, 67, 1);
+  border-radius: 10px;
 }
 
 .dashboard__graficos img {
   margin-right: 1rem;
   margin-top: 1rem;
+  
 }
 
 
